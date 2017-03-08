@@ -1,5 +1,3 @@
 First line
 Second line
 Third line
-Hello there :D
-good man!!!
